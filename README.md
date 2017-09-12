@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Noggin Loggin
 
-You can use the [editor on GitHub](https://github.com/fitz-freeman/Noggin-Loggin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What We Do:
+We create sensors to be placed in helmets used in sports.  This sensor will notify the trainer or bench that this player has received a hit that constitutes potential concussion or head trauma.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How We Do It:
+We have created a tiny sensor that can be placed in the helmet without affecting the weight of the helmet severely, or inhibiting the performance of the player.  This sensor then takes continuous measurements of the impact force and when a potentially dangerous type hit occurs the sideline is notified by a tansmitter so that they may inspect the player.
 
-### Markdown
+## Who We Do It For:
+Our customers are anyone who plays a sport that wears a helmet.  For example football, hockey, baseball, wrestling head gear, and even rugby headguards.  And our sensors are for all levels from peewee to professional.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fitz-freeman/Noggin-Loggin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Why We Do It:
+Our goal is to prevent head trauma so that these athletes can eventually leave the game an not be worried about potnentially losing their mental capabilities later in life.
