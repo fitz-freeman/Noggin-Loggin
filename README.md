@@ -1,4 +1,4 @@
-# Welcome to Noggin Loggin
+# Welcome to Noggin-Loggin
 
 ## What We Do:
 We create sensors to be placed in helmets used in sports.  This sensor will notify the trainer or bench that this player has received a hit that constitutes potential concussion or head trauma.
